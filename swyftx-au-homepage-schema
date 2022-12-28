@@ -1,0 +1,108 @@
+<script type="application/ld+json">
+{
+    "@context":"https://schema.org",
+    "@graph":[
+        {
+            "@type":"WebPage",
+            "headline":"Swyftx: Australian Crypto Exchange | Buy Cryptocurrency",
+            "description":"Trade over 310+ coins with low fees with Swyftx Cryptocurrency Exchange Australia. Trial our Australian Crypto Exchange app using demo mode.",
+            "url":"https://swyftx.com/au/",
+            "@id":"https://swyftx.com/au/#website",
+            "inLanguage":"en-AU",
+            "mainEntity":{"@id":"https://swyftx.com/au/#organization"},
+            "isPartOf":{
+                "@type":"WebSite",
+                "url":"https://swyftx.com/au/",
+                "@id":"https://swyftx.com/au/",
+                "name":"Swyftx: Australian Crypto Exchange | Buy Cryptocurrency",
+                "publisher":{
+                    "@type":"organization",
+                    "name":"Swyftx Pty Ltd",
+                    "legalName":"Swyftx Pty Ltd",
+                    "alternateName":"Swyftx",
+                    "@id":"https://swyftx.com/au/#organization",
+                    "founder":[
+                        {
+                            "@type":"person",
+                            "name":"Alex Harper",
+                            "sameAs":"https://www.linkedin.com/in/alex-harper-52640151/"
+                        },
+                        {
+                            "@type":"person",
+                            "name":"Angus Goldman",
+                            "sameAs":"https://www.linkedin.com/in/angus-goldman/"
+        
+                        }
+                    ],
+                    "sameAs":[
+                        "https://facebook.com/swyftx",
+                        "https://twitter.com/swyftxau",
+                        "http://instagram.com/swyftx",
+                        "http://linkedin.com/company/swyftx",
+                        "http://vm.tiktok.com/ZSeAXBC6A/",
+                        "http://youtube.com/channel/UCwY1JU3769E6flCHj1KpwbQ"
+                    ]
+                }
+            }
+        },
+        {
+            "@type":"FAQPage",
+            "isPartOf":{"@id":"https://swyftx.com/au/#website"},
+            "mainEntity":[
+{
+    "@type":"Question",
+    "name":"Is Swyftx a secure exchange?",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Being able to trust the Australian exchange that you use is incredibly important. Swyftx is an AUSTRAC registered exchange that complies with anti-money laundering laws stated in the Counter-Terrorism Financing Act 2006. We treat account security with the highest priority and our dedicated security team have decades of experience in building robust security frameworks and investigating consumer data breaches.
+Since launching in 2017, Swyftx has had 0 security breaches which reflects our strong commitment to security."
+    }
+},
+{
+    "@type":"Question",
+    "name":"What are the Swyftx fees?",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Both our crypto trading fees and spreads are lower than the industry averages, meaning we are one of the most affordable crypto exchanges in Australia. Swyftx has a trading fee of 0.6% for all buy and sell crypto orders. Our market spreads average out to 1.7% with spreads on Bitcoin as low as 0.45%. The market spread is the difference between the buy and sell prices of an asset listed on an exchange.
+All Australian cryptocurrency exchanges have a market spread, however, the size of the spread will differ depending on the exchange. Swyftx is able to offer razor-sharp spreads, competitive fees and our large pools of trading volume thanks to our network of global liquidity partners and banking partners.
+&nbsp;"
+    }
+},
+{
+    "@type":"Question",
+    "name":"How do I buy crypto with Swyftx",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"It’s our goal at Swyftx to make buying cryptocurrency as simple as possible. You can buy over 300+ assets on the Swyftx crypto trading platform and app. Simply sign up and verify your account, deposit AUD, and choose from our extensive list of digital assets. From there, select the quantity of the cryptocurrency you’d like to buy, or the AUD equivalent and confirm your order. Your crypto will then be immediately stored in your own personal Swyftx wallet."
+    }
+},
+{
+    "@type":"Question",
+    "name":"How do I verify my account?",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Swyftx complies with regulations set by AUSTRAC and therefore we must apply customer identification procedures to all our customers.
+To activate your account after you've signed up, you'll be required to complete our account verification process. You'll need to verify your email address, phone number and identity. You won’t have to submit any documents. Using our inbuilt ID scanner, scan your photo Identification. This process typically takes no longer than 3 minutes to complete, meaning you won’t have to wait for lengthy approvals."
+    }
+},
+{
+    "@type":"Question",
+    "name":"Does Swyftx have Australian-based customer support?",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes, Swyftx has a team of over 50 Australian-based customer support staff. Understanding cryptocurrency and blockchain technology can be difficult when first starting out. That’s why we have dedicated plenty of time and resources to provide the best quality personalised customer support possible.
+In addition to this, we also have offshore customer support staff based in New Zealand, the UK and Europe to assist with customer queries outside of business hours."
+    }
+},
+{
+    "@type":"Question",
+    "name":"Does Swyftx have SMSF and company accounts?",
+    "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Yes, Swyftx does support self-managed super fund (SMSF) and company accounts. The process for setting up one of these accounts is different to setting up a personal trading account. For more information on entity and SMSF accounts, visit the Swyftx help centre."
+    }
+}    ]
+        }
+    ]
+}
+</script>
